@@ -29,19 +29,26 @@ Protestant (e.g., Methodist, Lutheran, Presbyte...    386   16.826504
 
 [ Question ID :  W1_M2 ]  What was the racial makeup of your place of worship?
 Count and Percentage Value
-Empty DataFrame
-Columns: [Count, Percentage]
-Index: []
+                Count  Percentage
+W1_M2
+Don't Know        242   10.549259
+Mostly Asian       11    0.479512
+Mostly Black      736   32.083697
+Mostly Latino      49    2.136007
+Mostly White      644   28.073235
+Refused            66    2.877071
+Something else    108    4.707934
 
 Count and percentage value greater than its mean value
-Empty DataFrame
-Columns: [Count, Percentage]
-Index: []
+              Count  Percentage
+W1_M2
+Mostly Black    736   32.083697
+Mostly White    644   28.073235
 
 [ Question ID :  W1_M3 ]  Churches or places of worship should be involved in political matters
 Count and Percentage Value
                    Count  Percentage
-W1_M3                               
+W1_M3
 Refused               99    4.315606
 Somewhat agree       532   23.190933
 Somewhat disagree    595   25.937228
@@ -50,7 +57,7 @@ Strongly disagree    883   38.491718
 
 Count and percentage value greater than its mean value
                    Count  Percentage
-W1_M3                               
+W1_M3
 Somewhat agree       532   23.190933
 Somewhat disagree    595   25.937228
 Strongly disagree    883   38.491718
@@ -58,7 +65,7 @@ Strongly disagree    883   38.491718
 [ Question ID :  W1_M4 ]   Churches or places of worship should allow more women to become members of the clergy
 Count and Percentage Value
                    Count  Percentage
-W1_M4                               
+W1_M4
 Refused              117    5.100262
 Somewhat agree       892   38.884045
 Somewhat disagree    356   15.518745
@@ -67,14 +74,14 @@ Strongly disagree    281   12.249346
 
 Count and percentage value greater than its mean value
                 Count  Percentage
-W1_M4                            
+W1_M4
 Somewhat agree    892   38.884045
 Strongly agree    648   28.247602
 
 [ Question ID :  W1_M5 ]  How often do you attend religious services?
 Count and Percentage Value
                        Count  Percentage
-W1_M5                                   
+W1_M5
 A few times a year       405   17.654752
 More than once a week    356   15.518745
 Never                    407   17.741935
@@ -86,7 +93,7 @@ Refused                   17    0.741064
 
 Count and percentage value greater than its mean value
                        Count  Percentage
-W1_M5                                   
+W1_M5
 A few times a year       405   17.654752
 More than once a week    356   15.518745
 Never                    407   17.741935
@@ -96,92 +103,92 @@ Once a year or less      326   14.210985
 [ Question ID :  W1_M6 ]  Aside from attending regular services, in the past 12 months have you been an active member of your church or place of worship?
 Count and Percentage Value
          Count  Percentage
-W1_M6                     
+W1_M6
 No        1181   51.482127
 Refused     73    3.182214
 Yes        602   26.242371
 
 Count and percentage value greater than its mean value
        Count  Percentage
-W1_M6                   
+W1_M6
 No      1181   51.482127
 
 [ Question ID :  W1_M7 ]  In the last year, have you heard any discussions of politics at your church or place of worship?
 Count and Percentage Value
          Count  Percentage
-W1_M7                     
+W1_M7
 No        1216   53.007847
 Refused     79    3.443766
 Yes        561   24.455100
 
 Count and percentage value greater than its mean value
        Count  Percentage
-W1_M7                   
+W1_M7
 No      1216   53.007847
 
 [ Question ID :  W1_M8 ]  Have you talked to people about political matters at your church or place of worship?
 Count and Percentage Value
          Count  Percentage
-W1_M8                     
+W1_M8
 No        1353   58.979948
 Refused     77    3.356582
 Yes        426   18.570183
 
 Count and percentage value greater than its mean value
        Count  Percentage
-W1_M8                   
+W1_M8
 No      1353   58.979948
 
 [ Question ID :  W1_M9 ]  Has a member of the clergy or someone in an official position at your church or place of worship talked about the need for people to become more involved in politics?
 Count and Percentage Value
          Count  Percentage
-W1_M9                     
+W1_M9
 No        1258   54.838710
 Refused     87    3.792502
 Yes        511   22.275501
 
 Count and percentage value greater than its mean value
        Count  Percentage
-W1_M9                   
+W1_M9
 No      1258    54.83871
 
 [ Question ID :  W1_M10 ]  Has any local or national political leader spoken at a regular religious service at your church or place of worship?
 Count and Percentage Value
          Count  Percentage
-W1_M10                    
+W1_M10
 No        1505   65.605929
 Refused     82    3.574542
 Yes        269   11.726242
 
 Count and percentage value greater than its mean value
         Count  Percentage
-W1_M10                   
+W1_M10
 No       1505   65.605929
 
 [ Question ID :  W1_M11 ]   Has a member of the clergy, or someone in an official position at your church or place of worship, ever suggested that you vote for or against certain candidates in an election?
 Count and Percentage Value
          Count  Percentage
-W1_M11                    
+W1_M11
 No        1584   69.049695
 Refused     78    3.400174
 Yes        194    8.456844
 
 Count and percentage value greater than its mean value
         Count  Percentage
-W1_M11                   
+W1_M11
 No       1584   69.049695
 
 [ Question ID :  W1_M12 ]  What about suggesting that you take action on a political issue such as sign a petition or write a letter?
 Count and Percentage Value
          Count  Percentage
-W1_M12                    
+W1_M12
 No        1419   61.857018
 Refused     78    3.400174
 Yes        359   15.649520
 
 Count and percentage value greater than its mean value
         Count  Percentage
-W1_M12                   
+W1_M12
 No       1419   61.857018
 
 
