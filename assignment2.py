@@ -8,10 +8,10 @@ question_names = ['What is your religion?', 'What was the racial makeup of your 
 questions = zip(question_ids, question_names)
 answer_name = [
     {1:'Baptist any denomination', 2:'Protestant (e.g., Methodist, Lutheran, Presbyterian, Episcopal)',3:'Catholic',4:'Mormon',5:'Jewish',6:'Muslim',7:'Hindu',8:'Buddhist',9:'Pentecostal',10:'Eastern Orthodox',11:'Other Christian',12:'Other non-Christian, please specify',13:'None',14:'Refused',-1:'Refused'},
-    {'1':'Mostly Black','2':'Mostly White','3':'Mostly Latino','4':'Mostly Asian','5':'Something else','6':'Don\'t Know','-1':'Refused'},
-    {'1':'Strongly agree','2':'Somewhat agree','3':'Somewhat disagree','4':'Strongly disagree','-1':'Refused'},
-    {'1':'Strongly agree','2':'Somewhat agree','3':'Somewhat disagree','4':'Strongly disagree','-1':'Refused'},
-    {'1':'More than once a week', '2':'Once a week', '3':'Once or twice a month', '4':'A few times a year', '5':'Once a year or less', '6':'Never', '7':'Not asked', '8':'Missing/Refused', '-1':'Refused'},
+    {1:'Mostly Black',2:'Mostly White',3:'Mostly Latino',4:'Mostly Asian',5:'Something else',6:'Don\'t Know',-1:'Refused'},
+    {1:'Strongly agree',2:'Somewhat agree',3:'Somewhat disagree',4:'Strongly disagree',-1:'Refused'},
+    {1:'Strongly agree',2:'Somewhat agree',3:'Somewhat disagree',4:'Strongly disagree',-1:'Refused'},
+    {1:'More than once a week', 2:'Once a week', 3:'Once or twice a month', 4:'A few times a year', 5:'Once a year or less', 6:'Never', 7:'Not asked', 8:'Missing/Refused', -1:'Refused'},
     {'1':'Yes','2':'No','-1':'Refused'},
     {'1':'Yes','2':'No','-1':'Refused'},
     {'1':'Yes','2':'No','-1':'Refused'},
